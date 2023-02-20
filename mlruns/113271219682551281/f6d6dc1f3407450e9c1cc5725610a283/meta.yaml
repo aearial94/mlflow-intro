@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/MLFlowIntro/mlruns/113271219682551281/f6d6dc1f3407450e9c1cc5725610a283/artifacts
+end_time: 1676916294323
+entry_point_name: ''
+experiment_id: '113271219682551281'
+lifecycle_stage: active
+run_id: f6d6dc1f3407450e9c1cc5725610a283
+run_name: redolent-crane-868
+run_uuid: f6d6dc1f3407450e9c1cc5725610a283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676916292009
+status: 3
+tags: []
+user_id: gitpod

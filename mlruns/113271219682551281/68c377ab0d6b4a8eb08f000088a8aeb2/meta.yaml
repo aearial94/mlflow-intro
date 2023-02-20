@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/MLFlowIntro/mlruns/113271219682551281/68c377ab0d6b4a8eb08f000088a8aeb2/artifacts
+end_time: 1676916242706
+entry_point_name: ''
+experiment_id: '113271219682551281'
+lifecycle_stage: active
+run_id: 68c377ab0d6b4a8eb08f000088a8aeb2
+run_name: judicious-shad-518
+run_uuid: 68c377ab0d6b4a8eb08f000088a8aeb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676916239338
+status: 3
+tags: []
+user_id: gitpod

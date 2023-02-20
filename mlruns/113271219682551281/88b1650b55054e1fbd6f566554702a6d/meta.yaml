@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/MLFlowIntro/mlruns/113271219682551281/88b1650b55054e1fbd6f566554702a6d/artifacts
+end_time: 1676916217471
+entry_point_name: ''
+experiment_id: '113271219682551281'
+lifecycle_stage: active
+run_id: 88b1650b55054e1fbd6f566554702a6d
+run_name: upset-pig-824
+run_uuid: 88b1650b55054e1fbd6f566554702a6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676916217456
+status: 4
+tags: []
+user_id: gitpod
